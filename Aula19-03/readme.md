@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Aula sobre os principios do git e github
+=======
+Aula sobre os principios do git e github:
+>>>>>>> 007027143507b8e559b2951b5145a13baad91297
 
 ## Conceitos Fundamentais
 - Repositório: armazenamento de arquivos e histórico de mudanças
@@ -16,3 +20,5 @@ git config --global user.email "seu.email@exemplo.com"
 git reset --hard codigo-do-commit
 # Seguido por:
 git push origin nome-do-branch -f
+=======
+>>>>>>> 007027143507b8e559b2951b5145a13baad91297
