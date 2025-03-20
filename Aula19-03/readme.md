@@ -1,4 +1,4 @@
-Aula sobre os principios do git e github
+Aula sobre os principios do git e github:
 
 - Conceitos Fundamentais
 - Repositório: armazenamento de arquivos e histórico de mudanças
