@@ -8,7 +8,7 @@
 - [giphy](https://giphy.com/)
 
 
-## Estudar sobre a tag Picture - (Tag para monitorar o valor da dimensionalização das telas e mudar a imagem conforme a tela)
+> Estudar sobre a tag Picture - (Tag para monitorar o valor da dimensionalização das telas e mudar a imagem conforme a tela)
 
 - Explicação sobre identação
   
