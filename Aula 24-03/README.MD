@@ -10,10 +10,6 @@
 
 > Estudar sobre a tag Picture - (Tag para monitorar o valor da dimensionalização das telas e mudar a imagem conforme a tela)
 
-- Explicação sobre identação
-  
-- Tag UL/OL -> Lista ordenada e não ordenada
-
 ## EMMET
 - ">" - para atribuir um elemento dento do outro - Ex: `UL>LI` cria um li dentro de um UL
 - "*" - Repetição de um valor - Ex:  `li*5` - Cria 5 tags li
