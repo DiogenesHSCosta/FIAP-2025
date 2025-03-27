@@ -13,13 +13,19 @@
 - ``console.error("erro grave")``
 ### Utilidade publicas:
 
+- Criar tabela no console
+  ``console.table([{id: 1, tarefa: "Estudar JS"}])``
 > usado para aparecer uma tabela ao inves de chaves no console.
 >> muito util pra consumir API´S
-- ``console.table([{id: 1, tarefa: "Estudar JS"}])``
 
-- ~~~javascript
-console.time("Timer");
-// ...algum processamento...
-console.timeEnd("Timer");~~~
+
+
+- Marcar tempo
+    ~~~javascript
+      console.time("Timer");
+      // ...algum processamento...
+      console.timeEnd("Timer");
+    ~~~
+> Utilizado para marcar quanto tempo demora um processamento
 
 ## Explicação sobre variaveis:
