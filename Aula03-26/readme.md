@@ -26,6 +26,39 @@
       // ...algum processamento...
       console.timeEnd("Timer");
     ~~~
+
 > Utilizado para marcar quanto tempo demora um processamento
 
 ## Explicação sobre variaveis:
+
+- string (textos)
+- number (números)
+- boolean (verdadeiro ou falso)
+- undefined (valor não atribuído)
+- null (valor nulo intencional)
+- symbol (identificador único - ES6)
+- bigint (inteiros muito grandes - ES2020)
+
+~~~
+    let texto = "Olá";                
+    // String: sequência de caracteres.
+
+    let numero = 42;                  
+    // Number: valores numéricos.
+
+    let isCompleted = false;          
+    // Boolean: verdadeiro ou falso.
+
+    let semValor;                     
+    // Undefined: variável declarada sem valor.
+
+    let nulo = null;                  
+    // Null: ausência intencional de valor.               
+    // (typeof null retorna "object", comportamento histórico do JS)
+
+    let uniqueId = Symbol("id");      
+    // Symbol: cria um identificador único.
+
+    let bigNumero = 999999999999999999999999n; 
+    // BigInt: para inteiros muito grandes.   
+~~~
