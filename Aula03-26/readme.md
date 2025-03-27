@@ -62,3 +62,16 @@
     let bigNumero = 999999999999999999999999n; 
     // BigInt: para inteiros muito grandes.   
 ~~~
+
+
+## Explicação sobre Arrays:
+![array-objetos](./img/array-objetos.png)
+
+## Operador Ternário:
+
+- condição ? Resultado se verdadeiro : Resultado se falso
+
+~~~
+    let idade = 18;
+    let status = idade >= 18 ? "Maior de idade" : "Menor de idade";
+~~~
