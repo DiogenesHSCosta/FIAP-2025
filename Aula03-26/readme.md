@@ -17,6 +17,9 @@
 >> muito util pra consumir API´S
 - ``console.table([{id: 1, tarefa: "Estudar JS"}])``
 
--
+- ~~~javascript
+console.time("Timer");
+// ...algum processamento...
+console.timeEnd("Timer");~~~
 
 ## Explicação sobre variaveis:
